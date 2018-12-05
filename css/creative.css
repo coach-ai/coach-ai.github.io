@@ -184,6 +184,8 @@ header.masthead {
   background-size: cover;
 }
 
+.thankshead { background-image: url("../img/thanks.jpg") !important;}
+
 header.masthead hr {
   margin-top: 30px;
   margin-bottom: 30px;
